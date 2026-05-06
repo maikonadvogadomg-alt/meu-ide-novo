@@ -1,2 +1,2 @@
-# meu-ide-novo
-Germine
+# devmobile-ide
+DevMobile IDE â IDE no Celular
